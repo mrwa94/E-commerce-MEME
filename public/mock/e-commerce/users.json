@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example.com",
+    "password": "hashed_password",
+    "role": "visitor",
+    "ban" : false,
+    "avatar" :"https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&q=80&w=2960&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
+    
+  },
+  {
+    "id": 2,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane.smith@example.com",
+    "password": "hashed_password",
+    "role": "visitor",
+    "ban" : false,
+    "avatar" :"https://images.unsplash.com/photo-1543060829-a0029874b174?auto=format&fit=crop&q=80&w=2787&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  
+  },
+  {
+    "id": 3,
+    "firstName": "David",
+    "lastName": "Johnson",
+    "email": "david.johnson@example.com",
+    "password": "hashed_password",
+    "role": "visitor",
+    "ban" : true,
+    "avatar" :"https://images.unsplash.com/photo-1633332755192-727a05c4013d?auto=format&fit=crop&q=80&w=2960&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
+  },
+  {
+    "id": 4,
+    "firstName": "marwa",
+    "lastName": "alsubhi",
+    "email": "mrwa@gmail.com",
+    "password": "1234",
+    "role": "visitor",
+    "ban" : false,
+    "avatar" :"https://plus.unsplash.com/premium_photo-1658527049634-15142565537a?auto=format&fit=crop&q=80&w=2788&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
+  },
+  {
+    "id": 5,
+    "firstName": "zozo",
+    "lastName": "dany",
+    "email": "m@gmail.com",
+    "password": "1234",
+    "role": "admin",
+    "ban" : false,
+    "avatar" :"https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=2788&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+
+  }
+
+]
